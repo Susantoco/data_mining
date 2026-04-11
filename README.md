@@ -106,12 +106,7 @@ python download_data.py
     - clustering
     - association rules
 # 📦 Dependencies
-- Main libraries (see `requirements.txt`):
-    1. pandas
-    2. numpy
-    3. scikit-learn
-    4. matplotlib / seaborn
-    5. mlxtend (for association rules)
+- Main libraries (see `requirements.txt`): Pandas, NumPy, scikit-learn, matplotlib / seaborn, mlxtend (for association rules)
 
 # 👤 Author
 **Name**: Phạm Thành Trí (2313621) - Trần Kiến Quốc (2312878) - Trương Nhật Thành (2313145)
