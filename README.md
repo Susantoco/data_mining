@@ -114,6 +114,8 @@ python download_data.py
     5. mlxtend (for association rules)
 
 # 👤 Author
-**Name**: Phạm Thành Trí - Trần Kiến Quốc - Trương Nhật Thành
+**Name**: Phạm Thành Trí (2313621) - Trần Kiến Quốc (2312878) - Trương Nhật Thành (2313145)
+
 **Course**: Data Mining (CO3029)
+
 **Project Name**: Determinants of House Renting Decisions in Germany
